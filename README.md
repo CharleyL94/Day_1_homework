@@ -18,4 +18,4 @@ Our Homework Brief was to:
 
 1. Add the github remote
 *  Push to the remote repository
-This homework was used as basis to get use to the functions of GitHub.
+
