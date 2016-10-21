@@ -19,3 +19,4 @@ Our Homework Brief was to:
 1. Add the github remote
 *  Push to the remote repository
 
+I found this a really useful exercise on how to push to a Git repository I had created
